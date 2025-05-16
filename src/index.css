@@ -1,0 +1,6 @@
+/* Tailwind 4 syntax: a single import */
+@import "tailwindcss";
+
+html {
+	scroll-behavior: smooth;
+}
